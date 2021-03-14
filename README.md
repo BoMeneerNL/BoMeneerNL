@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoMeneerNL&layout=compact"/>
+
 <!--
 Here are some ideas to get you started:
 
@@ -11,3 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoMeneerNL&layout=compact"/>
