@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://github-readme-stats.vercel.app/api?username=BoMeneerNL&show_icons=true&count_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoMeneerNL&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoMeneerNL&layout=compact&langs_count=10"/>
